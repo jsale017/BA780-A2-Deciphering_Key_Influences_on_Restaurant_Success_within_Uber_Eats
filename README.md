@@ -4,9 +4,11 @@ BA780 Intro to Data Analytics
 Team Members: Annie Chien, Han Nga Chan, Sahasra Konkala, Sofia Lopez Somohano, Saumya Anand, Jose Salerno
 
 Problem:
+
 In this project, our primary objective is to provide strategic recommendations to clients who are either planning to establish a new restaurant chain or seeking to improve the performance of their existing restaurants. We are confronted with a pervasive issue in the restaurant industry where profit margins range from 3-5%. Our analysis is geared towards examining the current landscape of Uber Eats and uncovering innovative strategies that can enable restaurant businesses to enhance their attractiveness to new and existing customers while driving higher profits.
 
 Data Source:
+
 Sources – web scraping from https://www.ubereats.com
 
 Owner – Ahmed Shahriar Sakib
@@ -14,6 +16,7 @@ Owner – Ahmed Shahriar Sakib
 Link - https://www.kaggle.com/datasets/ahmedshahriarsakib/uber-eats-usa-restaurants-menus
 
 Summary Report:
+
 Our analysis of Uber Eats data is focused on extracting valuable insights into customer preferences within the food industry.
 Some of the key findings from our analysis
 Dominance of American Cuisine: American cuisine restaurants compose the majority of food categories across all regions in the United States.
