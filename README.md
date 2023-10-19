@@ -1,7 +1,7 @@
 # BA780-A2-Deciphering_Key_Influences_on_Restaurant_Success_within_Uber_Eats
 BA780 Intro to Data Analytics 
 
-**Team Members**: Annie Chien, Han Nga Chan, Sahasra Konkala, Sofia Lopez Somohano, Saumya Anand, Jose Salerno
+**Team Members**: Annie Chien, Han Nga Chan, Sahasra Konkala, Sofia Lopez Somohano, Saumya Anand, and Jose Salerno
 
 **Problem**:
 
