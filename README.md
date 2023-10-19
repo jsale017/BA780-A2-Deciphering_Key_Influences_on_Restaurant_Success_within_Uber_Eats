@@ -8,7 +8,9 @@ In this project, our primary objective is to provide strategic recommendations t
 
 Data Source:
 Sources – web scraping from https://www.ubereats.com
+
 Owner – Ahmed Shahriar Sakib
+
 Link - https://www.kaggle.com/datasets/ahmedshahriarsakib/uber-eats-usa-restaurants-menus
 
 Summary Report:
